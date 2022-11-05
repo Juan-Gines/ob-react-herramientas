@@ -1,3 +1,27 @@
+# Herramientas de diseño para React
+
+1. Storybook - storybook.js.org -> tiene muchos componentes UI para nuestras aplicaciones y son totalmente configurables.
+npx sb init -> para instalarlo
+
+2. Librerias principales de animaciones:
+
+- Framer Motion :
+
+- React Spring :
+
+3. Componentes para UI:
+
+- Material UI : mui.com //muchos componentes free alguno de pago
+
+- Chakra : chakra-ui.com //componentes free 1 y luego de pago
+
+- React Toolbox: react-toolbox.io
+
+- React Bootstrap: react-bootstrap.github.io
+
+4. TailwindCss: tailwindcss.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
